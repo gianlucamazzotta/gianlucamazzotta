@@ -7,9 +7,17 @@ My GitHub repository is a showcase of my programming skills and projects that de
 
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Html](https://img.shields.io/badge/HTML-f0db4f?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-f0db4f?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+</br>
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3490dc?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
+[![Html](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![Office](https://img.shields.io/badge/Microsoft_Office-7fba00?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)]()
+[![Photoshop](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+
 
 
 ## Contact me
