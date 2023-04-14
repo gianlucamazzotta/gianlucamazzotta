@@ -16,7 +16,7 @@ My GitHub repository is a showcase of my programming skills and projects that de
 </br>
 [![Html](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![Office](https://img.shields.io/badge/Microsoft_Office-7fba00?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)]()
-[![Photoshop](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-040c3c?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=101010)]()
 
 
 
