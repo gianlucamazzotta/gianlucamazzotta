@@ -2,7 +2,7 @@
 
 My GitHub repository is a showcase of my programming skills and projects that demonstrate my proficiency in front-end web development. I have worked on various projects, including personal websites, and web applications, using my knowledge of different programming languages and frameworks. I am currently studying programming at Hurlingham university
 
-## Skills
+## Skills 🛠️
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
@@ -16,7 +16,7 @@ My GitHub repository is a showcase of my programming skills and projects that de
 [![Office](https://img.shields.io/badge/Microsoft_Office-7fba00?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)]()
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-040c3c?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=101010)]()
 
-## Contact me
+## Contact me 💬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gianluca_Mazzotta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gianluca-mazzotta-5b79b1260/)
 
